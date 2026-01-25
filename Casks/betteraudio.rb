@@ -15,12 +15,12 @@ cask "betteraudio" do
   app "BetterAudio.app"
   
   zap trash: [
-    '~/Library/Caches/pro.betteraudio.BetterAudio',
-    '~/Library/Caches/BetterAudio',
-    '~/Library/HTTPStorages/pro.betteraudio.BetterAudio',
-    '~/Library/HTTPStorages/BetterAudio',
-    '~/Library/Preferences/pro.betteraudio.BetterAudio.plist',
-    '~/Library/Preferences/BetterAudio.plist',
-    '~/Library/Application Support/BetterAudio'
+    "~/Library/Caches/pro.betteraudio.BetterAudio",
+    "~/Library/Caches/BetterAudio",
+    "~/Library/HTTPStorages/pro.betteraudio.BetterAudio",
+    "~/Library/HTTPStorages/BetterAudio",
+    "~/Library/Preferences/pro.betteraudio.BetterAudio.plist",
+    "~/Library/Preferences/BetterAudio.plist",
+    "~/Library/Application Support/BetterAudio"
   ]
 end
