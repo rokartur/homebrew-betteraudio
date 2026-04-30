@@ -1,6 +1,6 @@
 cask "betteraudio" do
-  version "26.5.6"
-  sha256 "f0793117de3461113337da151300b489acfe25e151767ea856b213690ea5fa41"
+  version "26.6"
+  sha256 "dc5bcf56ae79a30a43b409ec782badfbf037859e89f5c881314c1e2d178688a5"
   
   url "https://github.com/rokartur/BetterAudio/releases/download/#{version}/BetterAudio-#{version}.dmg"
   name "BetterAudio"
